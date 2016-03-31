@@ -1,0 +1,25 @@
+{
+  "name": "issue-aggregator",
+  "version": "1.0.0",
+  "description": "A utility to aggregate issues from multiple tracking services.",
+  "main": "issue-aggregator.js",
+  "dependencies": {
+    "request": "^2.69.0",
+    "promise": "^7.1.1",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node issue-aggregator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcgov/issue-aggregator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcgov/issue-aggregator/issues"
+  },
+  "homepage": "https://github.com/bcgov/issue-aggregator#readme"
+}
