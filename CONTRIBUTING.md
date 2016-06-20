@@ -26,3 +26,9 @@ Always write a clear log message for your commits. One-line messages are fine fo
     $ git commit -m "A brief summary of the commit
     > 
     > A paragraph describing what changed and its impact."
+
+## Coding conventions
+
+We want the code you submit to play nicely with our technical stack. Please follow these code conventions.
+
+1. All Java Code will follow standard coding practices found here:[https://google.github.io/styleguide/javaguide.html](https://google.github.io/styleguide/javaguide.html)
