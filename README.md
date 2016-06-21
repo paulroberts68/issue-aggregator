@@ -1,16 +1,21 @@
 # issue-aggregator
-The Developers Scrum of Scrum application (DevSOS) has been designed to provide a method for development teams to communicate about issues that are blocking progress. The idea is that, using this tool, a development community can share knowledge, people and tool and help each other move innovation forward. DevSOS joins a variety of tools (JIRA, GitHub, KanBoard as well as Trello) to an aggregated kanban board that highlights blocked issues.  
+The issue aggregator has been designed to further encourage the creation of a collaborative development community within government. The objective is to be able to connect a number of development teams (who are using different software tools) and provide transparency into some of the issues that they might be facing (i.e. blocked stories). The community can then respond and help to identify or provide solutions.  
 
 ## Features
+The issue aggregator provides a point of integration and aggregation of information for teams that sign up and join the API. The aggregator will facilitate the reporting of information from a number of tools including JIRA, GitHub, KanBoard as well as Trello. The aggregator comprises of an API hub that takes advantage of web-hooks provided by other third party applications and provides a dashboard view of the information in via Kanboard (an open source application).
 
 ## Usage
-
+The project is in the alpha stage.
 
 ## Project Status
 In production.
 
 ## Goals/Roadmap
+- Create a working prototype that can be used to demonstrate the proposed MVP
 
+- Join two teams who are using different project management software tools
+
+- Provide an issue or blocked “alert” system that notifies “watchers” of blocked work
 
 ## Getting Help or Reporting an Issue
 To report bugs/issues/feature requests, please file an [issue](https://github.com/bcgov/issue-aggregator/issues).
