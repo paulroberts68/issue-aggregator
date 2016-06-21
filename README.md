@@ -1,3 +1,5 @@
+<a rel="Inspiration" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="An idea being explored and shaped. Open for discussion, but may never go anywhere." style="border-width:0" src="http://bcdevexchange.org/badge/1.svg" title="An idea being explored and shaped. Open for discussion, but may never go anywhere." /></a> – Used to identify a concept or idea that is being explored. In this state, there are no considerations towards IP, money / funding, or licenses, and is just an investigation of a topic or idea, often in an open and collaborative way. 
+
 # issue-aggregator
 The Developers Scrum of Scrum application (DevSOS) has been designed to provide a method for development teams to communicate about issues that are blocking progress. The idea is that, using this tool, a development community can share knowledge, people and tool and help each other move innovation forward. DevSOS joins a variety of tools (JIRA, GitHub, KanBoard as well as Trello) to an aggregated kanban board that highlights blocked issues.  
 
